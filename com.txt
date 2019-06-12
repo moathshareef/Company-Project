@@ -1,0 +1,10 @@
+ Owner Mr.Moath Sareef {  Name : Moath.Shareef , Date : 17/5/2016 , ID : 1 , tel : 0799900001 totalMoney = 100000.0$ , purchases = 56000.0$ , sales = 73548.0$ , salaries = 4880.0$ , profits = 112668.0$ , tax = 0.17}
+ Name : N/A , Date : N/A , ID : 0 , tel : N/A
+ Name : Mohammed , Date : 6/8/2016 , ID : 8 , tel : 0799900010  Net Salary = 1200.0$
+ Name : Mazen , Date : 13/10/2016 , ID : 16 , tel : 0799900020  Net Salary = 800.0$
+ Name : Khaleel , Date : 19/11/2016 , ID : 40 , tel : 0799900050  Net Salary = 480.0$
+ Name : Ahmed , Date : 19/11/2016 , ID : 41 , tel : 0799900051  Net Salary = 480.0$
+ Name : Saif , Date : 19/11/2016 , ID : 42 , tel : 0799900052  Net Salary = 480.0$
+ Name : Musa , Date : 19/11/2016 , ID : 43 , tel : 0799900053  Net Salary = 480.0$
+ Name : Esaa , Date : 19/11/2016 , ID : 44 , tel : 0799900054  Net Salary = 480.0$
+ Name : Hammam , Date : 19/11/2016 , ID : 45 , tel : 0799900055  Net Salary = 480.0$

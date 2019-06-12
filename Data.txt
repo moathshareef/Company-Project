@@ -1,0 +1,5 @@
+ Owner Mr.Moath Sareef {  Name : x , Date : 12/1/2019 , ID : 1 , tel : 0909909 totalMoney = 50000.0$ , purchases = 10000.0$ , sales = 15555.0$ , salaries = 2000.0$ , profits = 53555.0$ , tax = 0.17}
+ Owner Mr.Moath Sareef {  Name : xhgj , Date : 12/1/2019 , ID : 2 , tel : 0909909 totalMoney = 50000.0$ , purchases = 10000.0$ , sales = 15555.0$ , salaries = 2000.0$ , profits = 53555.0$ , tax = 0.17}
+ Owner Mr.Moath Sareef {  Name : xhgj , Date : 12/1/2019 , ID : 2 , tel : 0909909 totalMoney = 50000.0$ , purchases = 10000.0$ , sales = 15555.0$ , salaries = 2000.0$ , profits = 53555.0$ , tax = 0.17}
+ Owner Mr.Moath Sareef {  Name : xhgj , Date : 12/1/2019 , ID : 2 , tel : 0909909 totalMoney = 50000.0$ , purchases = 10000.0$ , sales = 15555.0$ , salaries = 2000.0$ , profits = 53555.0$ , tax = 0.17}
+ Owner Mr.Moath Sareef {  Name : xhgj , Date : 12/1/2019 , ID : 25 , tel : 0909909 totalMoney = 50000.0$ , purchases = 10000.0$ , sales = 15555.0$ , salaries = 2000.0$ , profits = 53555.0$ , tax = 0.17}
